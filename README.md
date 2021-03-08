@@ -8,8 +8,8 @@ This is a demo to show-case how to implement the [`geocoder` gem](https://github
 
 ### If you want to check it locally
 ```sh
-repo_name = "user-edit-on-modal"
-gh_repository='git@github.com:andrerferrer/$repo_name.git'
+repo_name="user-edit-on-modal"
+gh_repository="git@github.com:andrerferrer/$repo_name.git"
 git clone $gh_repository demo
 cd demo
 bundle install
