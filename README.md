@@ -6,7 +6,7 @@ This is a demo to show-case how to add a modal in your app to edit the logged in
 
 ## What needs to be done?
 
-1. [Export Devise form to a partial](8584f08).
+1. [Export Devise form to a partial](https://github.com/andrerferrer/user-edit-on-modal/commit/8584f0868c0cb8627e4596145992873224c1c866).
 1. [Add the partial to the page you want to use](https://github.com/andrerferrer/user-edit-on-modal/commit/62f544dee09f1d9ceb8a37f776dc0f92cacdc1de).
 1. [Add a modal to the home page](https://github.com/andrerferrer/user-edit-on-modal/commit/50870a0a3e68af7e4476135d9506f4e384b4d848).
 1. [Refactor modal into partial](https://github.com/andrerferrer/user-edit-on-modal/commit/eb7d8c83308fb0648c381486a711f60e2466d003).
