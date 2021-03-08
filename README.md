@@ -1,6 +1,6 @@
 # GOAL
 
-This is a demo to show-case how to implement the [`geocoder` gem](https://github.com/alexreisner/geocoder#geocoding-objects) in a model, adding two coordinates.
+This is a demo to show-case how to add a modal in your app to edit the logged in user with the Devise gem and Boostrap.
 
 [You can also check my other demos](https://github.com/andrerferrer/dedemos/blob/master/README.md#ded%C3%A9mos).
 
